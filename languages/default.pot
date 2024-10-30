@@ -1,0 +1,323 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Just Map It!\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-14 14:51+0100\n"
+"PO-Revision-Date: 2012-06-21 01:28+0100\n"
+"Last-Translator: Jonathan Dray <jonathan@social-computing.com>\n"
+"Language-Team: Social Computing <wordpress@social-computing.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_c;__ngettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../init.php:69
+msgid "Just Map It! not activated. You must have at least PHP 5.1.2 to use this plugin"
+msgstr ""
+
+#: ../init.php:73
+msgid "Just Map It! not activated. You must have at least WordPress 3.0 to use this plugin"
+msgstr ""
+
+#: ../jmi.php:133
+msgid "The Just Map It! plugin is almost ready... Go to the settings page and follow the client installation instructions | <a href=\"%1$s\">Plugin settings page</a>"
+msgstr ""
+
+#: ../jmi.php:145
+msgid "A new version of the Just Map It! client is available. Go to the settings page and follow the client upgrade instructions | <a href=\"%1$s\">Plugin settings page</a>"
+msgstr ""
+
+#: ../jmi.php:279
+msgid "Related posts"
+msgstr ""
+
+#: ../admin/ClientInstaller.php:73
+#: ../admin/ClientInstaller.php:106
+#: ../admin/ClientInstaller.php:122
+msgid "Just Map It! - Client installation"
+msgstr ""
+
+#: ../admin/ClientInstaller.php:75
+msgid "The HTML5 / Javascript client has been detected in your Wordpress upload directory. Click on the save button to complete the installation process."
+msgstr ""
+
+#: ../admin/ClientInstaller.php:86
+msgid "Just Map It! - Client upgrade"
+msgstr ""
+
+#: ../admin/ClientInstaller.php:90
+#: ../admin/ClientInstaller.php:126
+msgid "To complete the installation process follow the next steps: "
+msgstr ""
+
+#: ../admin/ClientInstaller.php:92
+#: ../admin/ClientInstaller.php:130
+msgid "Download the HTML5 / Javascript client archive file <a href=\"%s\" title=\"Just Map It! - Javacript client\">here</a>"
+msgstr ""
+
+#: ../admin/ClientInstaller.php:95
+msgid "Extract the downloaded file in a subdirectory named \"jmi\" in your Wordpress upload directory"
+msgstr ""
+
+#: ../admin/ClientInstaller.php:99
+#: ../admin/ClientInstaller.php:137
+msgid "Click on the \"next\" button below."
+msgstr ""
+
+#: ../admin/ClientInstaller.php:101
+#: ../admin/ClientInstaller.php:139
+msgid "Next"
+msgstr ""
+
+#: ../admin/ClientInstaller.php:109
+msgid "Next step"
+msgstr ""
+
+#: ../admin/ClientInstaller.php:110
+msgid "It is highly recommended that you upgrade to the new version. If you still want to continue to use the flash client, click on the skip button, else click on the upgrade button and follow the installation instructions."
+msgstr ""
+
+#: ../admin/ClientInstaller.php:113
+msgid "Skip"
+msgstr ""
+
+#: ../admin/ClientInstaller.php:133
+msgid "Create a subdirectory named \"jmi\" in the Wordpress upload directory and extract the downloaded file in that directory"
+msgstr ""
+
+#: ../admin/ClientInstaller.php:146
+msgid "You are <strong>one step </strong> from activating the Just Map It! plugin. The HTML5 / Javascript client used by this plugin needs to be downloaded and placed in your wordpress upload directory. <br>Click on the next button and follow the installation instructions."
+msgstr ""
+
+#: ../admin/ClientInstaller.php:155
+msgid "We have detected that you were using a previous version of the Just Map It! plugin with the flash client installed.<br> A new version of the Just Map It! client is now available !"
+msgstr ""
+
+#: ../admin/ClientInstaller.php:156
+msgid "Features of the new client"
+msgstr ""
+
+#: ../admin/ClientInstaller.php:158
+msgid "Breadcrumb and navigation history"
+msgstr ""
+
+#: ../admin/ClientInstaller.php:159
+msgid "Keep your navigation history visible with the breadcrumb at the top of the map. Click on one item to easily go back to a previously generated map."
+msgstr ""
+
+#: ../admin/ClientInstaller.php:161
+msgid "Full screen mode"
+msgstr ""
+
+#: ../admin/ClientInstaller.php:162
+msgid "Take advantage of your screen size and explore the map in full screen mode."
+msgstr ""
+
+#: ../admin/ClientInstaller.php:164
+msgid "Image snapshot"
+msgstr ""
+
+#: ../admin/ClientInstaller.php:165
+msgid "Want to share a specific view of a map ? Take a snapshot as an image and send it to your friends."
+msgstr ""
+
+#: ../admin/ClientInstaller.php:167
+msgid "Reduced size and load time"
+msgstr ""
+
+#: ../admin/ClientInstaller.php:168
+msgid "Your blog readers will download a 5 times more compact code. The execution time is also 30% faster."
+msgstr ""
+
+#: ../admin/ClientInstaller.php:170
+msgid "Tablets and mobile device support"
+msgstr ""
+
+#: ../admin/ClientInstaller.php:171
+msgid "This new client is tablet and mobile device compliant. As all browsers are not HTML5 ready, our client api will automatically fallback to the flash version if necessary."
+msgstr ""
+
+#: ../admin/ClientInstaller.php:173
+msgid "Multiple maps"
+msgstr ""
+
+#: ../admin/ClientInstaller.php:174
+msgid "Embed one or multiple maps in your blog posts and pages with the Just Map It! shortcode for Wordpress.<br> The shortcode can be used with the currently installed Flash version, however in that case it is limited to only one map per blog page."
+msgstr ""
+
+#: ../admin/ClientInstaller.php:182
+msgid "The HTML5 / Javascript client directory was not found. Please double check the expected installation folder and try again."
+msgstr ""
+
+#: ../admin/ClientInstaller.php:189
+msgid "Please note that in order to install and use the Just Map It! client you must agree with our <a href=\"%s\" title=\"Terms of use\">terms of use</a>. If it is not the case, remove any already installed Just Map It! client and uninstall this plugin."
+msgstr ""
+
+#: ../admin/ClientInstaller.php:200
+msgid "Congratulations"
+msgstr ""
+
+#: ../admin/ClientInstaller.php:201
+msgid "You have successfully installed the Just Map It! Plugin for Wordpress."
+msgstr ""
+
+#: ../admin/ClientInstaller.php:204
+msgid "The expected location is: %s"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:27
+msgid "Width"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:28
+msgid "Width of the map in pixels"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:36
+msgid "Height"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:37
+msgid "Height of the map in pixels"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:45
+msgid "Posts get method"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:46
+msgid "Method used to get other blog posts from a selected one"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:49
+msgid "Last posts"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:49
+msgid "With same tags"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:54
+msgid "Posts limit"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:55
+msgid "Maximum number of posts to get with a query"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:63
+msgid "Display map"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:64
+msgid "Check this option to add a map at the bottom of your blog posts"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:74
+msgid "Server url"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:75
+msgid "The Just Map It! server location"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:83
+msgid "Map configuration name"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:84
+msgid "The map configuration name passed to the server to generate the map"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:92
+msgid "Login"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:93
+msgid "A login to provide to access your blog json service"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:101
+msgid "Password"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:102
+msgid "A password to provide to access your blog json service"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:113
+#: ../admin/SettingsMenuManager.php:114
+msgid "Just Map It! client type"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:126
+msgid "Posts display settings"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:127
+msgid "These parameters control the appearence and the behaviour of the map displayed at the bottom of blog posts"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:131
+msgid "Advanced settings"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:132
+msgid "Advanced map settings, change the values only if you know what you are doing !"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:152
+msgid "Just Map It! plugin options"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:159
+msgid "Posts display"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:160
+msgid "Advanced"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:163
+msgid "Upgrade"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:168
+msgid "Upgrade to the HTML5 / Javascript client"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:171
+msgid "It is highly recommended that you upgrade to the new version. Click on the upgrade button and follow the installation instructions."
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:453
+msgid "Expecting a Numeric value"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:460
+msgid "Expecting a Numeric value for field: "
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:473
+msgid "Expecting comma separated numeric values"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:484
+msgid "Expecting comma separated numeric values for field: "
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:510
+msgid "Invalid email, please re-enter"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:513
+msgid "This setting field cannot be empty, please enter a valid email address"
+msgstr ""
+
+#: ../admin/SettingsMenuManager.php:521
+msgid "Please enter a valid email address for field: "
+msgstr ""
+
